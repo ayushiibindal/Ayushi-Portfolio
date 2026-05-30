@@ -52,7 +52,7 @@ This portfolio showcases my journey as an aspiring software developer and UI/UX 
 
 * GitHub: [GitHub Profile](https://github.com/ayushiibindal?utm_source=chatgpt.com)
 * LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayushi-bindal-/?utm_source=chatgpt.com)
-* Email: [ayushi650808@gmail.com](mailto:ayushi650808@gmail.com)
+* Email: [ayushiibindal754@gmail.com](mailto:ayushiibindal754@gmail.com)
 
 ## 📌 How to Run
 
